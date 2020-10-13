@@ -1,0 +1,8 @@
+Estos son los criterios de busque mas basicos.
+
+$eq	(=)
+$gt	(>)
+$gte (>=)	
+$lt	(<)
+$lte (<=)
+$ne (distinto de)
